@@ -34,3 +34,4 @@ databases:
     user: northstar
     plan: free
     postgresMajorVersion: "16"
+    ipAllowList: []
