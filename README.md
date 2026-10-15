@@ -2,6 +2,10 @@
 
 Northstar is a complete portfolio demonstration of governed enterprise AI. It combines synthetic operational data, permission-aware business tools, document evidence, deterministic calculations, an AI orchestration layer, audit trails, evaluation cases, and a polished employee experience.
 
+**[Open the live Northstar AI demo](https://northstar-ai-platform.onrender.com)**
+
+The public demo runs on Render's free tier. If it has been inactive, the first request may take up to a minute while the service wakes up.
+
 ## The only setup you need to do
 
 1. Open `.env` and add `OPENAI_API_KEY`, `AI_CHAT_MODEL`, and `AI_EMBEDDING_MODEL`.
